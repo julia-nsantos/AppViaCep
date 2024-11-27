@@ -13,3 +13,15 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+# Resultados de testes ou simulações
+/test-results/
+# Debug ou crash dumps
+/debug/
+*.stacktrace
